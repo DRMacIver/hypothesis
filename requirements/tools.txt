@@ -227,7 +227,7 @@ pyupgrade==2.9.0
     # via shed
 pyupio==1.1.1
     # via -r requirements/tools.in
-pyyaml==5.3.1
+pyyaml==5.4.1
     # via
     #   bandit
     #   dparse
