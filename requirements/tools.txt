@@ -213,7 +213,7 @@ pyjwt==2.0.1
     # via pygithub
 pyparsing==2.4.7
     # via packaging
-pytest==6.2.1
+pytest==6.2.2
     # via -r requirements/tools.in
 python-dateutil==2.8.1
     # via -r requirements/tools.in
