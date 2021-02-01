@@ -223,7 +223,7 @@ pytz==2021.1
     # via
     #   babel
     #   django
-pyupgrade==2.7.4
+pyupgrade==2.9.0
     # via shed
 pyupio==1.1.1
     # via -r requirements/tools.in
