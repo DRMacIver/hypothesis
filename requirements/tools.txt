@@ -150,7 +150,7 @@ mypy-extensions==0.4.3
     #   typing-inspect
 mypy==0.800
     # via -r requirements/tools.in
-packaging==20.8
+packaging==20.9
     # via
     #   bleach
     #   dparse
