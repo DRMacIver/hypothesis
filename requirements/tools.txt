@@ -217,7 +217,7 @@ pytest==6.2.2
     # via -r requirements/tools.in
 python-dateutil==2.8.1
     # via -r requirements/tools.in
-python-gitlab==2.5.0
+python-gitlab==2.6.0
     # via pyupio
 pytz==2020.5
     # via
