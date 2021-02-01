@@ -219,7 +219,7 @@ python-dateutil==2.8.1
     # via -r requirements/tools.in
 python-gitlab==2.6.0
     # via pyupio
-pytz==2020.5
+pytz==2021.1
     # via
     #   babel
     #   django
